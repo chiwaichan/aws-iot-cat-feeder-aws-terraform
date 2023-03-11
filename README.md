@@ -6,7 +6,7 @@ This Terraform code deploys to following architecture:
 
 For a complete overview of what this architecture is used for check out my [blog series](https://www.chiwaichan.co.nz/2021/10/16/smart-cat-feeder-part-1/)
 
-# Prerequisite
+# Prerequisites
  - Terraform installed
  - An AWS Account to deploy these resources into
  - AWS CLI installed and setup as the Terraform AWS Provider is using the Profiles managed by the AWS CLI
