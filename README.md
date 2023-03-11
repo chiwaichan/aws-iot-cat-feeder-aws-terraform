@@ -16,3 +16,4 @@ For a complete overview of what this architecture is used for check out my [blog
  - In your command line run "terraform init"
  - Open the "providers.tf" file, then enter the name of the AWS CLI Profile you wish to use to deploy the resources in the AWS Provider declaration.
  - Open the "variables.tf" file, then enter the value of the AWS Region you like to deploy your resources into by changing the Terraform Variable "region"
+ - Run "terraform apply"
